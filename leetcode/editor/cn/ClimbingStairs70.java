@@ -46,7 +46,7 @@ class Solution {
     public int climbStairs(int n) {
 		/*
 		// 递归 时间超时
-        if (n == 1) {
+        	if (n == 1) {
 			return 1;
 		}
 		if (n == 2) {
